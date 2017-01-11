@@ -3,6 +3,7 @@
 title:            A Stack of Notes
 locale:           'a messy stack of notes'
 url:              http://pjpaulpj.github.io
+baseurl: ""
 
 
 # Jekyll configuration
